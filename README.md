@@ -1,4 +1,4 @@
-# Sekira — Advanced Performance Utility for osu! 🎯
+# Sekira — Advanced Performance Tooklit for osu! 🎯
 
 > Sekira is a lightweight, external performance toolkit for osu!
 
